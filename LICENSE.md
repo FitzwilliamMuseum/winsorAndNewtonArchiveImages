@@ -1,4 +1,4 @@
-kAttribution-NoDerivatives 4.0 International
+Attribution-NoDerivatives 4.0 International
 
 =======================================================================
 
